@@ -7,7 +7,6 @@ This project implements a **deep learning hybrid model** that combines:
 
 The model is trained and evaluated on the **MNIST dataset** (handwritten digits 0–9).
 
-The model is trained and evaluated on the **MNIST dataset** (handwritten digits 0–9).  
 ✅ Achieves **~99% accuracy on the test set** without overfitting.
 
 
